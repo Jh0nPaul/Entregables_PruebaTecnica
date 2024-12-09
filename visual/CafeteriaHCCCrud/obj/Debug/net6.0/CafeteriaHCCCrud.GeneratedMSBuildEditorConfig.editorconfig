@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CafeteriaHCCCrud
+build_property.RootNamespace = CafeteriaHCCCrud
+build_property.ProjectDir = C:\Users\juann\Documents\HDI prueba tecnica entregables\visual\CafeteriaHCCCrud\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\juann\Documents\HDI prueba tecnica entregables\visual\CafeteriaHCCCrud
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccAlmacens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NBbG1hY2Vuc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccAlmacens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NBbG1hY2Vuc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccAlmacens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NBbG1hY2Vuc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccAlmacens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NBbG1hY2Vuc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccAlmacens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NBbG1hY2Vuc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccDetallesOrdens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NEZXRhbGxlc09yZGVuc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccDetallesOrdens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NEZXRhbGxlc09yZGVuc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccDetallesOrdens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NEZXRhbGxlc09yZGVuc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccDetallesOrdens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NEZXRhbGxlc09yZGVuc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/TbHccDetallesOrdens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJIY2NEZXRhbGxlc09yZGVuc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juann/Documents/HDI prueba tecnica entregables/visual/CafeteriaHCCCrud/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-unhl46nl3i

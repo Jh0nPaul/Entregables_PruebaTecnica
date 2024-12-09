@@ -1,0 +1,570 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CafeteriaHCCCrud",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Mesas": {
+      "get": {
+        "tags": [
+          "Mesas"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Mesas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccMesa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccMesa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccMesa"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Mesas/{id}": {
+      "get": {
+        "tags": [
+          "Mesas"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Mesas"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccMesa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccMesa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccMesa"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Mesas"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Ordenes/total": {
+      "get": {
+        "tags": [
+          "Ordenes"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Ordenes/mesas-disponibles": {
+      "get": {
+        "tags": [
+          "Ordenes"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Ordenes": {
+      "post": {
+        "tags": [
+          "Ordenes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccOrdene"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccOrdene"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccOrdene"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Ordenes/{id}/agregar-producto": {
+      "put": {
+        "tags": [
+          "Ordenes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccDetallesOrden"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccDetallesOrden"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccDetallesOrden"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Ordenes/{id}/cambiar-estatus": {
+      "put": {
+        "tags": [
+          "Ordenes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Ordenes/{id}": {
+      "delete": {
+        "tags": [
+          "Ordenes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Productos": {
+      "get": {
+        "tags": [
+          "Productos"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Productos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccProducto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccProducto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccProducto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Productos/{id}": {
+      "get": {
+        "tags": [
+          "Productos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Productos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccProducto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccProducto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbHccProducto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Productos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TbHccAlmacen": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "productoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cantidad": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "producto": {
+            "$ref": "#/components/schemas/TbHccProducto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbHccDetallesOrden": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ordenId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "productoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cantidad": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "orden": {
+            "$ref": "#/components/schemas/TbHccOrdene"
+          },
+          "producto": {
+            "$ref": "#/components/schemas/TbHccProducto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbHccMesa": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "lugares": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "disponible": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "tbHccOrdenes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbHccOrdene"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbHccOrdene": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "mesaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "estatus": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "fechaCreacion": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "mesa": {
+            "$ref": "#/components/schemas/TbHccMesa"
+          },
+          "tbHccDetallesOrdens": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbHccDetallesOrden"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbHccProducto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "precio": {
+            "type": "number",
+            "format": "double"
+          },
+          "activo": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "tbHccAlmacens": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbHccAlmacen"
+            },
+            "nullable": true
+          },
+          "tbHccDetallesOrdens": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbHccDetallesOrden"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

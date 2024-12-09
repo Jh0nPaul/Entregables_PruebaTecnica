@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CafeteriaHCCCrud.props" />
+</Project>

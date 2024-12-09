@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\controllers\\endpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:controllers\\endpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\models\\hcccafeteriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:models\\hcccafeteriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\views\\tbhccalmacens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:views\\tbhccalmacens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\models\\tbhccdetallesorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:models\\tbhccdetallesorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|c:\\users\\juann\\documents\\hdi prueba tecnica entregables\\visual\\cafeteriahcccrud\\models\\tbhccalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6744C3-A3ED-4DDB-ACEA-F8000CECD01C}|CafeteriaHCCCrud.csproj|solutionrelative:models\\tbhccalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T02:58:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndPointsController.cs",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Controllers\\EndPointsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EndPointsController.cs",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Controllers\\EndPointsController.cs",
+              "RelativeToolTip": "Controllers\\EndPointsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:31:37.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Views\\TbHccAlmacens\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TbHccAlmacens\\Create.cshtml",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Views\\TbHccAlmacens\\Create.cshtml",
+              "RelativeToolTip": "Views\\TbHccAlmacens\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T02:23:18.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TbHccDetallesOrden.cs",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\TbHccDetallesOrden.cs",
+              "RelativeDocumentMoniker": "Models\\TbHccDetallesOrden.cs",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\TbHccDetallesOrden.cs",
+              "RelativeToolTip": "Models\\TbHccDetallesOrden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:05:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TbHccAlmacen.cs",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\TbHccAlmacen.cs",
+              "RelativeDocumentMoniker": "Models\\TbHccAlmacen.cs",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\TbHccAlmacen.cs",
+              "RelativeToolTip": "Models\\TbHccAlmacen.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:04:55.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T02:03:03.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HccCafeteriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\HccCafeteriaContext.cs",
+              "RelativeDocumentMoniker": "Models\\HccCafeteriaContext.cs",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\HccCafeteriaContext.cs",
+              "RelativeToolTip": "Models\\HccCafeteriaContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:00:25.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:42:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:42:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\juann\\Documents\\HDI prueba tecnica entregables\\visual\\CafeteriaHCCCrud\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:42:01.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
